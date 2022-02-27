@@ -14,6 +14,7 @@ This project is assisting client Louise, who is planning to launch a Kickstarter
 
 ### Analysis of Outcomes Based on Launch Date
 
+![outcomes_vs_launch]
 
 
 ### Analysis of Outcomes Based on Goals
