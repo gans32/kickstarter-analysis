@@ -14,7 +14,9 @@ This project is assisting client Louise, who is planning to launch a Kickstarter
 
 ### Analysis of Outcomes Based on Launch Date
 
-![outcomes_vs_launch]
+This graph shows the outcomes of theater-related campaigns by month (in any year). 
+
+![outcomes_vs_launch](Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
