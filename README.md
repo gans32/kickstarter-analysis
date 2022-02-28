@@ -10,19 +10,23 @@ This project is assisting client Louise, who is planning to launch a Kickstarter
 
 ## Analysis and Challenges
 
-
-
 ### Analysis of Outcomes Based on Launch Date
 
-This graph shows the outcomes of theater-related campaigns by month (in any year). As we can see, the largest number of campaigns launched occurs in May, with 166 total campaigns launched. This pattern applies in general to campaigns launched in the middle of the year. These months also show the greatest disparity between successful and failed campaigns. The percentage difference among failed, successful, canceled, and live campaigns can be seen in the chart below.
+This graph shows the outcomes of theater-related campaigns by month (in any year). The chart was created by As we can see, the largest number of campaigns launched occurs in May, with 166 total campaigns launched. This pattern applies in general to campaigns launched in the middle of the year. These months also show the greatest disparity between successful and failed campaigns. The percentage difference among failed, successful, canceled, and live campaigns can be seen in the chart below. The lowest number of total launches, as well as the lowest proportion of successful launches, is in December.
 
 ![outcomes_vs_launch](Theater_Outcomes_vs_Launch.png)
 
-![percentage successful](percent_successful.png)
+![percentage successful](percent_successful-failed.png)
 
 ### Analysis of Outcomes Based on Goals
 
+This graph shows the outcomes of theater-related campaigns based on their stated financial goals. The least successful campaigns in this analysis had launched with a goal of $45,000 or more, while the most successful campaigns had launched with a goal of $5,000 or less. Success trends down steadily as the funding goal increases, with a rise in success rates between $30,000 and $45,000. 
+
+![outcomes vs goals](Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
+
+
 
 ## Results
 
